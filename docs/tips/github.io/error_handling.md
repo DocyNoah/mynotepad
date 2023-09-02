@@ -2,8 +2,8 @@
 title: Error Handling for GitHub Pages
 layout: default
 nav_order: 3
-grand_parent:
-parent: github.io
+grand_parent: Tips
+parent: GitHub.io
 has_children:
 permalink:
 ---

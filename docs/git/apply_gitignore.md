@@ -3,7 +3,7 @@ title: gitignore 적용하기
 layout: default
 nav_order:
 grand_parent:
-parent: git
+parent: Git
 has_children:
 permalink:
 ---

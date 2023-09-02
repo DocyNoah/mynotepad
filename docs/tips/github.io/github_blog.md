@@ -2,8 +2,8 @@
 title: github 블로그 만들기
 layout: default
 nav_order: 2
-grand_parent:
-parent: github.io
+grand_parent: Tips
+parent: GitHub.io
 has_children:
 permalink:
 ---

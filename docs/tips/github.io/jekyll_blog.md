@@ -2,8 +2,8 @@
 title: 로컬 jekyll 블로그 만들기
 layout: default
 nav_order: 1
-grand_parent:
-parent: github.io
+grand_parent: Tips
+parent: GitHub.io
 has_children:
 permalink:
 ---

@@ -1,11 +1,11 @@
 ---
-title: github.io
+title: Research
 layout: default
-nav_order: 99
+nav_order: 11
 grand_parent:
 parent:
 has_children: true
 permalink:
 ---
 
-# github.io
+# Research

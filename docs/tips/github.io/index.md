@@ -1,11 +1,11 @@
 ---
-title: Git
+title: GitHub.io
 layout: default
-nav_order: 22
+nav_order: 99
 grand_parent:
-parent:
+parent: Tips
 has_children: true
 permalink:
 ---
 
-# Git
+# GitHub.io

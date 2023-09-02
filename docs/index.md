@@ -1,11 +1,13 @@
 ---
 title: Home
 layout: default
-nav_order: 1
+nav_order: 0
 grand_parent:
 parent:
 has_children:
 permalink:
 ---
 
-This is home.
+# My Notepad
+
+This is home of my notepad.
