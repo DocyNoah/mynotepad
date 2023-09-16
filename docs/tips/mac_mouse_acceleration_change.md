@@ -13,4 +13,4 @@ permalink:
 
 ## Program
 
-[LinearMouse | Mac을 위한 마우스 및 트랙패드 유틸리티](https://linearmouse.app/ko-KR/)
+[LinearMouse - Mac을 위한 마우스 및 트랙패드 유틸리티](https://linearmouse.app/ko-KR/)
