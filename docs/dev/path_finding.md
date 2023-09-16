@@ -12,7 +12,7 @@ permalink:
 
 ## [PathFinding.js](https://qiao.github.io/PathFinding.js/visual/)
 
-## 알고리즘
+## Algorithms
 
 - A*
 - IDA*
@@ -23,7 +23,7 @@ permalink:
 - Orthogonal Jump Point Search
 - Trace
 
-## 휴리스틱
+## Heuristics
 
 - Manhattan
 - Euclidian
