@@ -295,7 +295,7 @@ $ nano ./vncserver-startup.sh
 
 ## PyCharm
 
-You can download PyCharm on `jetbrains ` or `Ubuntu Software`, but recommand on `jetbrains.com/pycharm/`
+You can download PyCharm on `JetBrains Site` or `Ubuntu Software`, but recommand on `JetBrains Site`
 
 1. Download Pycharm on <https://www.jetbrains.com/pycharm/>
 2. Extract *.tar.gz  (recommand at home directory)
