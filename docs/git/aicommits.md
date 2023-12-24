@@ -66,6 +66,17 @@ commit 과정에서 `git commit` 대신 `aicommits`를 입력하면 된다.
 
 ***
 
+## Tips
+
+### Model 변경
+default 모델이 gpt-3.5-turbo를 사용하고 있다. 최신 모델인 gpt-3.5-turbo-1106를 쓰자.
+```bash
+$ aicommits config set model=gpt-3.5-turbo-1106
+```
+
+
+***
+
 ## References
 
 - <https://github.com/Nutlope/aicommits>
